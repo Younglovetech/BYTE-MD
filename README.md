@@ -6,7 +6,6 @@
 
  
     
-
 <p align="center">
  <h2>WhatsApp channel</h2>
   <a href="https://whatsapp.com/channel/0029VaNRcHSJP2199iMQ4W0l" target="_blank">
